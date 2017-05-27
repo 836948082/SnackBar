@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnackBar</string>
+    <string name="one">官方底部</string>
+    <string name="two">官方带点击事件</string>
+    <string name="three">第三方顶部</string>
+    <string name="four">第三方顶部带点击事件</string>
+    <string name="five">联系作者</string>
+</resources>
